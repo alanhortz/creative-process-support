@@ -26,6 +26,7 @@
   "gitHead": "2ec425b8b750f74dcaf522a80488865e67f9219d",
   "devDependencies": {
     "grunt": "~0.4.2",
-    "grunt-contrib-jshint": "~0.8.0"
+    "grunt-contrib-jshint": "~0.8.0",
+    "grunt-cucumber": "~0.2.3"
   }
 }
