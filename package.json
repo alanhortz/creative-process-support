@@ -23,5 +23,8 @@
   "author": "Alan Hortz",
   "license": "GPLv3",
   "readmeFilename": "README.md",
-  "gitHead": "2ec425b8b750f74dcaf522a80488865e67f9219d"
+  "gitHead": "2ec425b8b750f74dcaf522a80488865e67f9219d",
+  "devDependencies": {
+    "grunt": "~0.4.2"
+  }
 }
