@@ -1,0 +1,27 @@
+{
+  "name": "creative-process-support",
+  "version": "0.0.1",
+  "description": "The project aims to support the animation of a creative process by helping a facilitator to locate easily information in large media stream captured during a creative session.",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alanhortz/creative-process-support.git"
+  },
+  "keywords": [
+    "creative",
+    "process",
+    "facilitation",
+    "animation",
+    "media",
+    "stream",
+    "information",
+    "location"
+  ],
+  "author": "Alan Hortz",
+  "license": "GPLv3",
+  "readmeFilename": "README.md",
+  "gitHead": "2ec425b8b750f74dcaf522a80488865e67f9219d"
+}
